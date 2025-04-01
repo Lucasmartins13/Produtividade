@@ -30,11 +30,7 @@ pip install ultralytics opencv-python numpy matplotlib
 2. Coloque o vídeo a ser processado na mesma pasta do código e nomeie-o como `70027081.mp4`.
 
 ### Execução
-Para processar o vídeo, gerar os gráficos e visualizar os resultados, execute:
-```bash
-python codigo1.py
-python codigo2.py
-```
+Para processar o vídeo, gerar os gráficos e visualizar os resultados, execute os dois códigos.
 Os gráficos gerados serão salvos no diretório do projeto.
 
 ## Saída do Programa
@@ -65,7 +61,7 @@ O código é dividido nas seguintes partes:
 Para obter melhores resultados, algumas melhorias podem ser implementadas:
 - 📷 Utilização de um vídeo de maior qualidade para aumentar a precisão das detecções.
 - 🚧 Captura do vídeo em uma área com menos objetos bloqueando as pessoas, evitando detecções incorretas.
-- 🧠 Implementação de um sistema para identificar o que cada pessoa está fazendo, permitindo aplicações mais avançadas, como análise de comportamento e monitoramento de fluxo de clientes em estabelecimentos.
+- 🧠 Implementação de um sistema para identificar o que cada pessoa está fazendo, permitindo aplicações mais avançadas, como análise de comportamento e monitoramento de fluxo de pessoas em estabelecimentos ou indústrias.
 
 ## Autor
 Projeto desenvolvido utilizando YOLOv8 para visão computacional e análise de movimentação de pessoas em ambientes fechados.
