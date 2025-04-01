@@ -64,6 +64,6 @@ Para obter melhores resultados, algumas melhorias podem ser implementadas:
 - 🧠 Implementação de um sistema para identificar o que cada pessoa está fazendo, permitindo aplicações mais avançadas, como análise de comportamento e monitoramento de fluxo de pessoas em estabelecimentos ou indústrias.
 
 ## Autor
-Projeto desenvolvido utilizando YOLOv8 para visão computacional e análise de movimentação de pessoas em ambientes fechados.
+Projeto desenvolvido utilizando YOLOv8 para visão computacional e análise de movimentação de pessoas em ambientes fechados, por Lucas Martins de Castro.
 
 
